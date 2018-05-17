@@ -1,0 +1,2 @@
+# BZYT
+Projects for beginners
